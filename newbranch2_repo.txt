@@ -1,0 +1,2 @@
+Ye ek asi file ka text hai jo ki new branch 2 ki testing ke lye likha jara hai
+ islye isko hum pehle add krenge fr commit krenge fr puch kr denge
